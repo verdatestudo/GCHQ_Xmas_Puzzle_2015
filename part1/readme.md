@@ -1,6 +1,5 @@
 ### Part 1 - Getting started
 
-##### (see part1_starting_grid.png) <br \>
 <em>
 In this type of grid-shading puzzle, each square is either black or white. Some of the black squares have already been filled in for you.
 
@@ -8,3 +7,5 @@ Each row or column is labelled with a string of numbers. The numbers indicate th
 
 Complete the grid carefully with a black pen and check your answer is complete and correct before proceeding.
 </em>
+
+![Alt text](part1_starting_grid.png?raw=true "Optional Title")
